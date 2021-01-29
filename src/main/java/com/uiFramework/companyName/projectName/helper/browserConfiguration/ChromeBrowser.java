@@ -1,5 +1,5 @@
 
-package com.uiFramework.companyName.bhanuProjectName.helper.browserConfiguration;
+package com.uiFramework.companyName.projectName.helper.browserConfiguration;
 
 
 import org.openqa.selenium.WebDriver;
@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.remote.DesiredCapabilities;
 
-import com.uiFramework.companyName.bhanuProjectName.helper.resource.ResourceHelper;
+import com.uiFramework.companyName.projectName.helper.resource.ResourceHelper;
 
 /**
  * 
@@ -27,9 +27,10 @@ public class ChromeBrowser {
 		
 		option.setCapability(ChromeOptions.CAPABILITY, chrome);	
 		//Linux
-		if(System.getProperty("os.name").contains("Linux")){
-			option.addArguments("--headless", "window-size=1024,768", "--no-sandbox");
-		}
+		/*
+		 * if(System.getProperty("os.name").contains("Linux")){
+		 * option.addArguments("--headless", "window-size=1024,768", "--no-sandbox"); }
+		 */
 		return option;
 	}
 
@@ -44,7 +45,7 @@ public class ChromeBrowser {
 			return new ChromeDriver(cap);
 		}
 		else if(System.getProperty("os.name").contains("Linux")){
-			System.setProperty("webdriver.chrome.driver", "/usr/bin/chrome");
+			System.setProperty("webdriver.chrome.driver", ResourceHelper.getResourcePath("src/main/resources/drivers/chromedriver-linux"));
 			return new ChromeDriver(cap);
 		}
 		return null;

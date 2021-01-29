@@ -1,9 +1,9 @@
-package com.uiFramework.companyName.bhanuProjectName.helper.assertion;
+package com.uiFramework.companyName.projectName.helper.assertion;
 
 import org.apache.log4j.Logger;
 import org.testng.Assert;
 
-import com.uiFramework.companyName.bhanuProjectName.helper.logger.LoggerHelper;
+import com.uiFramework.companyName.projectName.helper.logger.LoggerHelper;
 /**
  * 
  * @author Bhanu Pratap Singh

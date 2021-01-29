@@ -1,5 +1,5 @@
 
-package com.uiFramework.companyName.bhanuProjectName.helper.browserConfiguration;
+package com.uiFramework.companyName.projectName.helper.browserConfiguration;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -7,7 +7,7 @@ import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.firefox.FirefoxProfile;
 import org.openqa.selenium.remote.DesiredCapabilities;
 
-import com.uiFramework.companyName.bhanuProjectName.helper.resource.ResourceHelper;
+import com.uiFramework.companyName.projectName.helper.resource.ResourceHelper;
 
 public class FirefoxBrowser {
 

@@ -1,4 +1,4 @@
-package com.uiFramework.companyName.bhanuProjectName.testScripts.productDetailsPage;
+package com.uiFramework.companyName.projectName.testScripts.productDetailsPage;
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -9,12 +9,12 @@ import org.openqa.selenium.WebElement;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import com.uiFramework.companyName.bhanuProjectName.helper.assertion.AssertionHelper;
-import com.uiFramework.companyName.bhanuProjectName.helper.browserConfiguration.config.ObjectReader;
-import com.uiFramework.companyName.bhanuProjectName.helper.logger.LoggerHelper;
-import com.uiFramework.companyName.bhanuProjectName.pageObject.NavigationMenu;
-import com.uiFramework.companyName.bhanuProjectName.pageObject.ProductCategoryPage;
-import com.uiFramework.companyName.bhanuProjectName.testbase.TestBase;
+import com.uiFramework.companyName.projectName.helper.assertion.AssertionHelper;
+import com.uiFramework.companyName.projectName.helper.browserConfiguration.config.ObjectReader;
+import com.uiFramework.companyName.projectName.helper.logger.LoggerHelper;
+import com.uiFramework.companyName.projectName.pageObject.NavigationMenu;
+import com.uiFramework.companyName.projectName.pageObject.ProductCategoryPage;
+import com.uiFramework.companyName.projectName.testbase.TestBase;
 
 
 /**

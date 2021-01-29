@@ -1,8 +1,8 @@
-package com.uiFramework.companyName.bhanuProjectName.testScripts.productDetailsPage;
+package com.uiFramework.companyName.projectName.testScripts.productDetailsPage;
 
 import org.testng.annotations.Test;
 
-import com.uiFramework.companyName.bhanuProjectName.testbase.TestBase;
+import com.uiFramework.companyName.projectName.testbase.TestBase;
 
 /**
  * @author Bhanu Pratap

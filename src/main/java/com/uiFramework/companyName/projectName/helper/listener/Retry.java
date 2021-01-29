@@ -1,10 +1,10 @@
-package com.uiFramework.companyName.bhanuProjectName.helper.listener;
+package com.uiFramework.companyName.projectName.helper.listener;
 
 import org.apache.log4j.Logger;
 import org.testng.IRetryAnalyzer;
 import org.testng.ITestResult;
 
-import com.uiFramework.companyName.bhanuProjectName.helper.logger.LoggerHelper;
+import com.uiFramework.companyName.projectName.helper.logger.LoggerHelper;
 /**
  * 
  * @author Bhanu Pratap Singh

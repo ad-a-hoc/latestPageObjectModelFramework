@@ -1,4 +1,4 @@
-package com.uiFramework.companyName.bhanuProjectName.pageObject;
+package com.uiFramework.companyName.projectName.pageObject;
 
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
@@ -7,11 +7,11 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 import com.aventstack.extentreports.Status;
-import com.uiFramework.companyName.bhanuProjectName.helper.assertion.VerificationHelper;
-import com.uiFramework.companyName.bhanuProjectName.helper.browserConfiguration.config.ObjectReader;
-import com.uiFramework.companyName.bhanuProjectName.helper.logger.LoggerHelper;
-import com.uiFramework.companyName.bhanuProjectName.helper.wait.WaitHelper;
-import com.uiFramework.companyName.bhanuProjectName.testbase.TestBase;
+import com.uiFramework.companyName.projectName.helper.assertion.VerificationHelper;
+import com.uiFramework.companyName.projectName.helper.browserConfiguration.config.ObjectReader;
+import com.uiFramework.companyName.projectName.helper.logger.LoggerHelper;
+import com.uiFramework.companyName.projectName.helper.wait.WaitHelper;
+import com.uiFramework.companyName.projectName.testbase.TestBase;
 
 /**
  * 

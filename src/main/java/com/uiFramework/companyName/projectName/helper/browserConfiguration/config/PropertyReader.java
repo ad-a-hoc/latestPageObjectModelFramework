@@ -1,11 +1,11 @@
-package com.uiFramework.companyName.bhanuProjectName.helper.browserConfiguration.config;
+package com.uiFramework.companyName.projectName.helper.browserConfiguration.config;
 
 import java.io.File;
 import java.io.FileInputStream;
 import java.util.Properties;
 
-import com.uiFramework.companyName.bhanuProjectName.helper.browserConfiguration.BrowserType;
-import com.uiFramework.companyName.bhanuProjectName.helper.resource.ResourceHelper;
+import com.uiFramework.companyName.projectName.helper.browserConfiguration.BrowserType;
+import com.uiFramework.companyName.projectName.helper.resource.ResourceHelper;
 /**
  * 
  * @author Bhanu Pratap Singh

@@ -1,4 +1,4 @@
-package com.uiFramework.companyName.bhanuProjectName.helper.browserConfiguration.config;
+package com.uiFramework.companyName.projectName.helper.browserConfiguration.config;
 
 public class B implements A{
 	

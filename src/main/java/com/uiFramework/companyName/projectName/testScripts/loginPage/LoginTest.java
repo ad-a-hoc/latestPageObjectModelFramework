@@ -1,13 +1,13 @@
-package com.uiFramework.companyName.bhanuProjectName.testScripts.loginPage;
+package com.uiFramework.companyName.projectName.testScripts.loginPage;
 
 import org.apache.log4j.Logger;
 import org.testng.annotations.Test;
 
-import com.uiFramework.companyName.bhanuProjectName.helper.assertion.AssertionHelper;
-import com.uiFramework.companyName.bhanuProjectName.helper.browserConfiguration.config.ObjectReader;
-import com.uiFramework.companyName.bhanuProjectName.helper.logger.LoggerHelper;
-import com.uiFramework.companyName.bhanuProjectName.pageObject.LoginPage;
-import com.uiFramework.companyName.bhanuProjectName.testbase.TestBase;
+import com.uiFramework.companyName.projectName.helper.assertion.AssertionHelper;
+import com.uiFramework.companyName.projectName.helper.browserConfiguration.config.ObjectReader;
+import com.uiFramework.companyName.projectName.helper.logger.LoggerHelper;
+import com.uiFramework.companyName.projectName.pageObject.LoginPage;
+import com.uiFramework.companyName.projectName.testbase.TestBase;
 /**
  * 
  * @author Bhanu Pratap

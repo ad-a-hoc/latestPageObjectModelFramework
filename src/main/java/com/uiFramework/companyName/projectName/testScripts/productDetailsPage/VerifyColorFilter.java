@@ -1,9 +1,9 @@
-package com.uiFramework.companyName.bhanuProjectName.testScripts.productDetailsPage;
+package com.uiFramework.companyName.projectName.testScripts.productDetailsPage;
 
 import org.apache.log4j.Logger;
 
-import com.uiFramework.companyName.bhanuProjectName.helper.logger.LoggerHelper;
-import com.uiFramework.companyName.bhanuProjectName.testbase.TestBase;
+import com.uiFramework.companyName.projectName.helper.logger.LoggerHelper;
+import com.uiFramework.companyName.projectName.testbase.TestBase;
 
 
 /**

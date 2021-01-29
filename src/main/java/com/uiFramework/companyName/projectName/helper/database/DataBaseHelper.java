@@ -1,4 +1,4 @@
-package com.uiFramework.companyName.bhanuProjectName.helper.database;
+package com.uiFramework.companyName.projectName.helper.database;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -8,7 +8,7 @@ import java.sql.Statement;
 
 import org.apache.log4j.Logger;
 
-import com.uiFramework.companyName.bhanuProjectName.helper.logger.LoggerHelper;
+import com.uiFramework.companyName.projectName.helper.logger.LoggerHelper;
 
 public class DataBaseHelper {
 

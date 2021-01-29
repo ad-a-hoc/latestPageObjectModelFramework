@@ -1,9 +1,9 @@
-package com.uiFramework.companyName.bhanuProjectName.testScripts;
+package com.uiFramework.companyName.projectName.testScripts;
 
 import org.testng.annotations.Test;
 
-import com.uiFramework.companyName.bhanuProjectName.helper.assertion.AssertionHelper;
-import com.uiFramework.companyName.bhanuProjectName.testbase.TestBase;
+import com.uiFramework.companyName.projectName.helper.assertion.AssertionHelper;
+import com.uiFramework.companyName.projectName.testbase.TestBase;
 
 public class Test1 extends TestBase{
 

@@ -1,11 +1,11 @@
-package com.uiFramework.companyName.bhanuProjectName.helper.assertion;
+package com.uiFramework.companyName.projectName.helper.assertion;
 
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-import com.uiFramework.companyName.bhanuProjectName.helper.logger.LoggerHelper;
-import com.uiFramework.companyName.bhanuProjectName.testbase.TestBase;
+import com.uiFramework.companyName.projectName.helper.logger.LoggerHelper;
+import com.uiFramework.companyName.projectName.testbase.TestBase;
 /**
  * 
  * @author Bhanu Pratap Singh

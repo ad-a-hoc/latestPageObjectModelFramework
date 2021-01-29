@@ -1,10 +1,10 @@
-package com.uiFramework.companyName.bhanuProjectName.utils;
+package com.uiFramework.companyName.projectName.utils;
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 import com.aventstack.extentreports.reporter.configuration.ChartLocation;
 import com.aventstack.extentreports.reporter.configuration.Theme;
-import com.uiFramework.companyName.bhanuProjectName.helper.resource.ResourceHelper;
+import com.uiFramework.companyName.projectName.helper.resource.ResourceHelper;
 /**
  * 
  * @author Bhanu Pratap Singh

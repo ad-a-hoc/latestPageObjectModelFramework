@@ -1,4 +1,4 @@
-package com.uiFramework.companyName.bhanuProjectName.helper.database;
+package com.uiFramework.companyName.projectName.helper.database;
 
 public class Employee {
 	

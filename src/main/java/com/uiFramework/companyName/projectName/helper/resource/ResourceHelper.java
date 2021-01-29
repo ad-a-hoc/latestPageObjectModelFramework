@@ -1,4 +1,4 @@
-package com.uiFramework.companyName.bhanuProjectName.helper.resource;
+package com.uiFramework.companyName.projectName.helper.resource;
 
 /**
  * 

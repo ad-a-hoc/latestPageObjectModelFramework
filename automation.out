@@ -1,0 +1,18 @@
+2021-01-29 14:01:780 INFO  TestBase:128 - The driver executable does not exist: /usr/bin/chrome
+2021-01-29 14:01:706 INFO  TestBase:128 - Timed out waiting for driver server to start.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'adarsh-lapc', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.4.0-65-generic', java.version: '15.0.1'
+Driver info: driver.version: ChromeDriver
+2021-01-29 14:01:281 INFO  TestBase:128 - Timed out waiting for driver server to start.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'adarsh-lapc', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.4.0-65-generic', java.version: '15.0.1'
+Driver info: driver.version: ChromeDriver
+2021-01-29 14:01:192 INFO  TestBase:128 - The driver executable does not exist: /home/adarsh/programming/latestPOMFramework/src/main/resources/drivers/chromedriver-linux
+2021-01-29 14:01:932 INFO  TestBase:128 - The driver is not executable: /home/adarsh/programming/latestPOMFramework/src/main/resources/drivers/chromedriver-linux
+2021-01-29 14:01:574 INFO  TestBase:135 - Initialize Web driver: 1160546880
+2021-01-29 14:01:577 INFO  WaitHelper:31 - WaitHelper object created..
+2021-01-29 14:01:578 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2021-01-29 14:01:586 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2021-01-29 14:01:591 INFO  WaitHelper:146 - page is loaded
+2021-01-29 14:01:722 INFO  TestBase:76 - **************testLoginAStarted***************
+2021-01-29 14:01:733 INFO  TestBase:94 - **************testLoginAFinished***************

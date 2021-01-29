@@ -1,13 +1,13 @@
-package com.uiFramework.companyName.bhanuProjectName.testScripts.productDetailsPage;
+package com.uiFramework.companyName.projectName.testScripts.productDetailsPage;
 
 import org.testng.annotations.Test;
 
-import com.uiFramework.companyName.bhanuProjectName.helper.assertion.AssertionHelper;
-import com.uiFramework.companyName.bhanuProjectName.pageObject.ApplicationText;
-import com.uiFramework.companyName.bhanuProjectName.pageObject.LoginPage;
-import com.uiFramework.companyName.bhanuProjectName.pageObject.NavigationMenu;
-import com.uiFramework.companyName.bhanuProjectName.pageObject.ProductCategoryPage;
-import com.uiFramework.companyName.bhanuProjectName.testbase.TestBase;
+import com.uiFramework.companyName.projectName.helper.assertion.AssertionHelper;
+import com.uiFramework.companyName.projectName.pageObject.ApplicationText;
+import com.uiFramework.companyName.projectName.pageObject.LoginPage;
+import com.uiFramework.companyName.projectName.pageObject.NavigationMenu;
+import com.uiFramework.companyName.projectName.pageObject.ProductCategoryPage;
+import com.uiFramework.companyName.projectName.testbase.TestBase;
 
 
 /**

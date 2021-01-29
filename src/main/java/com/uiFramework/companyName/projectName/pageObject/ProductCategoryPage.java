@@ -1,4 +1,4 @@
-package com.uiFramework.companyName.bhanuProjectName.pageObject;
+package com.uiFramework.companyName.projectName.pageObject;
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -13,12 +13,12 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 
-import com.uiFramework.companyName.bhanuProjectName.helper.browserConfiguration.config.ObjectReader;
-import com.uiFramework.companyName.bhanuProjectName.helper.javaScript.JavaScriptHelper;
-import com.uiFramework.companyName.bhanuProjectName.helper.logger.LoggerHelper;
-import com.uiFramework.companyName.bhanuProjectName.helper.select.DropDownHelper;
-import com.uiFramework.companyName.bhanuProjectName.helper.wait.WaitHelper;
-import com.uiFramework.companyName.bhanuProjectName.testbase.TestBase;
+import com.uiFramework.companyName.projectName.helper.browserConfiguration.config.ObjectReader;
+import com.uiFramework.companyName.projectName.helper.javaScript.JavaScriptHelper;
+import com.uiFramework.companyName.projectName.helper.logger.LoggerHelper;
+import com.uiFramework.companyName.projectName.helper.select.DropDownHelper;
+import com.uiFramework.companyName.projectName.helper.wait.WaitHelper;
+import com.uiFramework.companyName.projectName.testbase.TestBase;
 
 /**
  * 

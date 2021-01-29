@@ -1,4 +1,4 @@
-package com.uiFramework.companyName.bhanuProjectName.helper.wait;
+package com.uiFramework.companyName.projectName.helper.wait;
 
 import java.time.Duration;
 import java.util.concurrent.TimeUnit;
@@ -15,7 +15,7 @@ import org.openqa.selenium.support.ui.FluentWait;
 import org.openqa.selenium.support.ui.Wait;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import com.uiFramework.companyName.bhanuProjectName.helper.logger.LoggerHelper;
+import com.uiFramework.companyName.projectName.helper.logger.LoggerHelper;
 /**
  * 
  * @author Bhanu Pratap Singh

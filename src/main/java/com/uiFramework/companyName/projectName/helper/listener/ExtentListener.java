@@ -1,4 +1,4 @@
-package com.uiFramework.companyName.bhanuProjectName.helper.listener;
+package com.uiFramework.companyName.projectName.helper.listener;
 
 import org.apache.log4j.Logger;
 import org.testng.ITestContext;
@@ -8,7 +8,7 @@ import org.testng.Reporter;
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
-import com.uiFramework.companyName.bhanuProjectName.helper.logger.LoggerHelper;
+import com.uiFramework.companyName.projectName.helper.logger.LoggerHelper;
 
 public class ExtentListener implements ITestListener{
     private Logger log = LoggerHelper.getLogger(ExtentListener.class);

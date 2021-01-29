@@ -1,6 +1,6 @@
-package com.uiFramework.companyName.bhanuProjectName.helper.browserConfiguration.config;
+package com.uiFramework.companyName.projectName.helper.browserConfiguration.config;
 
-import com.uiFramework.companyName.bhanuProjectName.helper.browserConfiguration.BrowserType;
+import com.uiFramework.companyName.projectName.helper.browserConfiguration.BrowserType;
 /**
  * 
  * @author Bhanu Pratap Singh

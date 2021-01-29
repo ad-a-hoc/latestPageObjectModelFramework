@@ -1,11 +1,11 @@
-package com.uiFramework.companyName.bhanuProjectName.helper.alert;
+package com.uiFramework.companyName.projectName.helper.alert;
 
 import org.apache.log4j.Logger;
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.NoAlertPresentException;
 import org.openqa.selenium.WebDriver;
 
-import com.uiFramework.companyName.bhanuProjectName.helper.logger.LoggerHelper;
+import com.uiFramework.companyName.projectName.helper.logger.LoggerHelper;
 
 public class AlertHelper {
 

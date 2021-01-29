@@ -1,4 +1,4 @@
-package com.uiFramework.companyName.bhanuProjectName.helper.select;
+package com.uiFramework.companyName.projectName.helper.select;
 
 import java.util.LinkedList;
 import java.util.List;
@@ -8,7 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
 
-import com.uiFramework.companyName.bhanuProjectName.helper.logger.LoggerHelper;
+import com.uiFramework.companyName.projectName.helper.logger.LoggerHelper;
 
 /**
  * 

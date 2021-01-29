@@ -1,4 +1,4 @@
-package com.uiFramework.companyName.bhanuProjectName.testScripts;
+package com.uiFramework.companyName.projectName.testScripts;
 
 public class A {
 
